@@ -442,6 +442,7 @@ body {
 .tabs__reviews-inner {
   border: 1px solid #c5dac5;
   padding: 30px 50px 30px 40px;
+  background-color: #fff
 }
 
 
@@ -617,6 +618,7 @@ body {
   padding: 42px 30px 65px 0px;
   max-width: 700px;
   position: relative;
+  background-color: #fff;
 }
 
 .history__text::before {
